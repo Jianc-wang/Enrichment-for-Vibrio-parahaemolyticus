@@ -1,0 +1,7 @@
+org.Vparahaemolyticus.eg.db
+                        Bioconductor annotation data package
+org.Vparahaemolyticus.egORGANISM
+                        The Organism for org.Vparahaemolyticus.eg
+org.Vparahaemolyticus.eg_dbconn
+                        Collect information about the package
+                        annotation DB

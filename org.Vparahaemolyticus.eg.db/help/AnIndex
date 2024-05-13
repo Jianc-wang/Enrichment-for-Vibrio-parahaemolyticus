@@ -1,0 +1,7 @@
+org.Vparahaemolyticus.eg	org.Vparahaemolyticus.egBASE
+org.Vparahaemolyticus.eg.db	org.Vparahaemolyticus.egBASE
+org.Vparahaemolyticus.egORGANISM	org.Vparahaemolyticus.egORGANISM
+org.Vparahaemolyticus.eg_dbconn	org.Vparahaemolyticus.eg_dbconn
+org.Vparahaemolyticus.eg_dbfile	org.Vparahaemolyticus.eg_dbconn
+org.Vparahaemolyticus.eg_dbInfo	org.Vparahaemolyticus.eg_dbconn
+org.Vparahaemolyticus.eg_dbschema	org.Vparahaemolyticus.eg_dbconn
